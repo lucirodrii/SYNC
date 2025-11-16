@@ -219,15 +219,15 @@ header div {
 }
 
 .atro {
-  background-image: url("images/PELIS/Atropia.jpg");
+  background-image: url("../images/PELIS/Atropia.jpg");
 }
 
 .baltimorons {
-  background-image: url("images/PELIS/Baltimorons.jpg");
+  background-image: url("../images/PELIS/Baltimorons.jpg");
 }
 
 .photo1 {
-  background-image: url("images/2/5.jpg");
+  background-image: url("../images/2/5.jpg");
 }
 
 .icon {
@@ -237,15 +237,15 @@ header div {
 }
 
 .speech {
-  background-image: url("images/speech.png");
+  background-image: url("../images/speech.png");
 }
 
 .camera {
-  background-image: url("images/camara.png");
+  background-image: url("../images/camara.png");
 }
 
 .eye {
-  background-image: url("images/eye.png");
+  background-image: url("../images/eye.png");
 }
 
 .vertical {

@@ -217,8 +217,7 @@ header div {
   background-size: cover;
   background-position: center;
 }
-);
-}
+
 .atro {
   background-image: url("../images/PELIS/Atropia.jpg");
 }
@@ -246,7 +245,8 @@ header div {
 }
 
 .eye {
-  background-image: url("../images/eye.png"
+  background-image: url("../images/eye.png")
+}
 
 .vertical {
   writing-mode: vertical-rl;
